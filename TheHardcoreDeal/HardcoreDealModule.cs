@@ -33,7 +33,7 @@ namespace TheHardcoreDeal
                 return;
             }
 
-            if (Manager<SaveManager>.Instance.GetCurrentSaveGameSlot().SlotName.EndsWith("_hc"))
+            if (Manager<SaveManager>.Instance.GetCurrentSaveGameSlot().SlotName.EndsWith("-hc"))
             {
                 if (Manager<SkinManager>.Instance.GetEquippedSkin().skinID != ESkin.DARK_MESSENGER)
                 {
