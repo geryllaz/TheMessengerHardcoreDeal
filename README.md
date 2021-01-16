@@ -8,6 +8,7 @@
 - Deal 1 damage to every enemy
 - Game Over in 1 hit
 
+
 ## Installation Instructions
 
 1. Install Courier
@@ -21,3 +22,5 @@
    2. Move the downloaded zip file directly into the Mods folder (`%steamInstallDirectory%\steamapps\common\The Messenger\Mods`).
     
       Example: `c:\Steam\steamapps\common\The Messenger\Mods`
+      
+   3. At SaveSlot creation the name needs to end with `-hc`
